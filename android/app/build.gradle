@@ -1,0 +1,50 @@
+plugins {
+    id "com.android.application"
+    id "kotlin-android"
+    id "dev.flutter.flutter-gradle-plugin" // Flutter plugin
+    id "com.google.gms.google-services"   // For Firebase
+}
+
+android {
+    namespace = "com.example.dyslexia_app"
+    compileSdk = 34 // Use SDK 34 as per your requirements
+
+    defaultConfig {
+        applicationId "com.example.dyslexia_app" // Package name
+        minSdkVersion 24 // Minimum SDK
+        targetSdkVersion 34 // Target SDK
+        versionCode 1 // Replace with appropriate version code
+        versionName "1.0" // Replace with appropriate version name
+    }
+
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_1_8
+        targetCompatibility JavaVersion.VERSION_1_8
+    }
+
+    kotlinOptions {
+        jvmTarget = "1.8"
+    }
+
+    buildTypes {
+        release {
+            // For release builds
+            minifyEnabled false // Disable code shrinking for now
+            shrinkResources false // Disable resource shrinking for now
+            signingConfig signingConfigs.debug
+        }
+        debug {
+            // For debug builds
+            minifyEnabled false // Keep this disabled for debugging
+            shrinkResources false // No resource shrinking in debug
+        }
+    }
+}
+
+dependencies {
+    implementation platform('com.google.firebase:firebase-bom:32.2.2') // Firebase BOM
+    implementation 'com.google.firebase:firebase-auth-ktx'            // Firebase Auth
+    implementation 'com.google.firebase:firebase-firestore-ktx'       // Firebase Firestore
+}
+
+apply plugin: 'com.google.gms.google-services' // Apply Firebase services plugin

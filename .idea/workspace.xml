@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="SCOPE_TYPE" value="3" />
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="cfad9507-7cc2-4984-98f9-8079bef38ca7" name="Changes" comment="1203">
+      <change beforePath="$PROJECT_DIR$/../../dyslexia/.metadata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dyslexia/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dyslexia/analysis_options.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dyslexia/android/app/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dyslexia/android/app/src/debug/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dyslexia/android/app/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dyslexia/android/app/src/main/kotlin/com/example/dyslexia_app/MainActivity.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dyslexia/android/app/src/main/res/drawable-v21/launch_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dyslexia/android/app/src/main/res/drawable/launch_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dyslexia/android/app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dyslexia/android/app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dyslexia/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dyslexia/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dyslexia/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dyslexia/android/app/src/main/res/values-night/styles.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dyslexia/android/app/src/main/res/values/styles.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dyslexia/android/app/src/profile/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dyslexia/android/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dyslexia/android/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dyslexia/android/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dyslexia/android/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dyslexia/assets/images/clap.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dyslexia/assets/images/default_profile.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dyslexia/assets/images/google_icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dyslexia/assets/images/microphone.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dyslexia/assets/images/splash.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dyslexia/ios/Flutter/AppFrameworkInfo.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dyslexia/ios/Flutter/Debug.xcconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dyslexia/ios/Flutter/Release.xcconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dyslexia/ios/Runner.xcodeproj/project.pbxproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dyslexia/ios/Runner.xcodeproj/project.xcworkspace/contents.xcworkspacedata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dyslexia/ios/Runner.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dyslexia/ios/Runner.xcodeproj/project.xcworkspace/xcshareddata/WorkspaceSettings.xcsettings" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dyslexia/ios/Runner.xcodeproj/xcshareddata/xcschemes/Runner.xcscheme" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dyslexia/ios/Runner.xcworkspace/contents.xcworkspacedata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dyslexia/ios/Runner.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dyslexia/ios/Runner.xcworkspace/xcshareddata/WorkspaceSettings.xcsettings" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dyslexia/ios/Runner/AppDelegate.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dyslexia/ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dyslexia/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-1024x1024@1x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dyslexia/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@1x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dyslexia/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dyslexia/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dyslexia/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@1x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dyslexia/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dyslexia/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dyslexia/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@1x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dyslexia/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dyslexia/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dyslexia/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dyslexia/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dyslexia/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@1x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dyslexia/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dyslexia/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-83.5x83.5@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dyslexia/ios/Runner/Assets.xcassets/LaunchImage.imageset/Contents.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dyslexia/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dyslexia/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dyslexia/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dyslexia/ios/Runner/Assets.xcassets/LaunchImage.imageset/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dyslexia/ios/Runner/Base.lproj/LaunchScreen.storyboard" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dyslexia/ios/Runner/Base.lproj/Main.storyboard" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dyslexia/ios/Runner/Info.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dyslexia/ios/Runner/Runner-Bridging-Header.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dyslexia/ios/RunnerTests/RunnerTests.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dyslexia/lib/main.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dyslexia/lib/screens/analyzing_data_page.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dyslexia/lib/screens/change_password_page.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dyslexia/lib/screens/eye_movement_analysis_page.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dyslexia/lib/screens/forgot_password_page.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dyslexia/lib/screens/handwriting_analysis_page.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dyslexia/lib/screens/login_page.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dyslexia/lib/screens/navigation_page.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dyslexia/lib/screens/otp_page.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dyslexia/lib/screens/profile_page.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dyslexia/lib/screens/progress_report_page.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dyslexia/lib/screens/reading_behaviour_analysis_page.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dyslexia/lib/screens/register_page.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dyslexia/lib/screens/settings_page.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dyslexia/lib/screens/splash_page.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dyslexia/lib/screens/task_page.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dyslexia/lib/screens/thank_you_page.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dyslexia/pubspec.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dyslexia/test/widget_test.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dyslexia/web/favicon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dyslexia/web/icons/Icon-192.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dyslexia/web/icons/Icon-512.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dyslexia/web/icons/Icon-maskable-192.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dyslexia/web/icons/Icon-maskable-512.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dyslexia/web/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dyslexia/web/manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../projects" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+    <option name="SHOW_TAGS" value="false" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;FathimaRushdha12&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/FathimaRushdha12/dyslexia_new12-03.git&quot;,
+    &quot;accountId&quot;: &quot;114fc831-c7ec-4534-b862-485793e481dc&quot;
+  }
+}</component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2piXi69axvEMsumMr5Tv5cUrKpH" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Flutter.main.dart.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "RunOnceActivity.readMode.enableVisualFormatting": "true",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "dart.analysis.tool.window.visible": "false",
+    "git-widget-placeholder": "rushdhanew",
+    "io.flutter.reload.alreadyRun": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/flutter/src/flutter/dyslexia2/dyslexia",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
+    "show.migrate.to.gradle.popup": "false"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="main.dart" type="FlutterRunConfigurationType" factoryName="Flutter">
+      <option name="filePath" value="$PROJECT_DIR$/lib/main.dart" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cfad9507-7cc2-4984-98f9-8079bef38ca7" name="Changes" comment="" />
+      <created>1733249993885</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1733249993885</updated>
+    </task>
+    <task id="LOCAL-00001" summary="1203">
+      <option name="closed" value="true" />
+      <created>1733252286675</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1733252286675</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/../.." />
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+    <MESSAGE value="1203" />
+    <option name="LAST_COMMIT_MESSAGE" value="1203" />
+  </component>
+</project>
